@@ -1,0 +1,30 @@
+[
+  {
+    "task_id": 1,
+    "title": "Complete Python assignment",
+    "description": "Build a task manager with persistent storage",
+    "completed": true,
+    "created_at": "2025-12-22T14:22:59.584997"
+  },
+  {
+    "task_id": 2,
+    "title": "Study for exams",
+    "description": "Focus on chapters 5-8",
+    "completed": false,
+    "created_at": "2025-12-22T14:22:59.584997"
+  },
+  {
+    "task_id": 4,
+    "title": "Read Chapter 10",
+    "description": "Data structures and algorithms",
+    "completed": false,
+    "created_at": "2025-12-22T14:22:59.640214"
+  },
+  {
+    "task_id": 5,
+    "title": "Practice coding",
+    "description": "Solve 5 LeetCode problems",
+    "completed": true,
+    "created_at": "2025-12-22T14:22:59.642216"
+  }
+]
